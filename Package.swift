@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "ImageSlideshow",
     platforms: [
-        .iOS(.v16),
+        .iOS(.v13),
     ],
     products: [
         .library(
